@@ -1,5 +1,5 @@
 *****
-# Snakλείδης
+# Snakλίδης
 *****
 A geometry-centric version where players explore regular polygons, symmetry, and angles. Navigate through a grid of shapes while learning about geometric principles and problem-solving. This version combines visual and spatial learning for a uniquely educational experience.
 
@@ -18,12 +18,12 @@ Use the following to cite this code:
 
 Description
 ========
-Snakλείδης is an educational and engaging video game that combines the classic mechanics of Snake with the exploration of geometry. Players control a "snake" that grows as it collects geometric shapes, angles, or lines, with gameplay designed to teach and reinforce knowledge about polygons, symmetry, and spatial reasoning. Perfect for students, educators, and geometry enthusiasts, Snakλείδης makes learning geometry interactive and fun while sharpening players' strategic thinking skills.
+Snakλίδης is an educational and engaging video game that combines the classic mechanics of Snake with the exploration of geometry. Players control a "snake" that grows as it collects geometric shapes, angles, or lines, with gameplay designed to teach and reinforce knowledge about polygons, symmetry, and spatial reasoning. Perfect for students, educators, and geometry enthusiasts, Snakλείδης makes learning geometry interactive and fun while sharpening players' strategic thinking skills.
 
 Copyright
 =========
 
-    Snakλείδης
+    Snakλίδης
     Copyright (C) 2024 Pietro Galizia
 
     This program is free software: you can redistribute it and/or modify
